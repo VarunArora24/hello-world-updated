@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+    color: white;
+    /* text-align: center; */
+}
+.container{
+    height: 10cm;
+    width: 10cm;
+    text-align: center;
+}
+.msg , .greet {
+    font-size: 1cm;
+}
