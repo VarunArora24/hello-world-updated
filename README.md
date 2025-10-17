@@ -1,5 +1,4 @@
 # hello-world
 This repository is for practicing the GitHub Flow.
 we are gonna start using it
-# This is updated by VarunArora24 for learning purpose only
-# PLease accept my pull request if you get it
+Oye sun mujhe git agya hai aur fork option mei jake merge kar meri request
